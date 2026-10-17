@@ -1,3 +1,3 @@
-module github.com/baiyapeng.com/hello
+module github.com/baiyapeng/hello
 
 go 1.27.1

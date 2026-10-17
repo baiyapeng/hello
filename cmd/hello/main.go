@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/baiyapeng.com/hello/internal/greeter"
+	"github.com/baiyapeng/hello/internal/greeter"
 )
 
 func main() {
